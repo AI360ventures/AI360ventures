@@ -18,7 +18,7 @@ Nosso foco está na automação, acessibilidade digital e liberdade criativa.
 
 ## 📬 Contato
 
-📧 contato@ai360ventures.com *(placeholder)*  
+📧 alexandre@ai360ventures.com
 🌐 www.ai360ventures.com
 
 ---
