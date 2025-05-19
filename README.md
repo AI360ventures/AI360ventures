@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner_GitHub_Final.png" alt="AI360° Ventures Banner">
+</p>
+
 # 🚀 Automatizando o presente. Transformando o futuro. IA aplicada com propósito. 🧠✨
 
 ## 👋 Bem-vindo à **AI360° Ventures**
@@ -18,8 +22,8 @@ Nosso foco está na automação, acessibilidade digital e liberdade criativa.
 
 ## 📬 Contato
 
-📧 alexandre@ai360ventures.com
-🌐 www.ai360ventures.com
+- 📧 Email: [alexandre@ai360ventures.com](mailto:alexandre@ai360ventures.com)
+- 🌐 Site: [www.ai360ventures.com](https://www.ai360ventures.com)
 
 ---
 
@@ -33,3 +37,7 @@ Nosso foco está na automação, acessibilidade digital e liberdade criativa.
 - Fun fact: We run on caffeine, chaos, and clean code.
 
 ---
+
+<p align="center">
+  <i>IA aplicada com propósito real.</i>  
+</p>
